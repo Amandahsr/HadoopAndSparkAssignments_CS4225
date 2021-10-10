@@ -3,7 +3,7 @@ This repository details proposed solution to 2 assignments completed in NUS CS42
 
 <ins>Assignment 1: Hadoop</ins>
 
-Given 2 textual files, for each common word between the files, find the smaller number of times the word appears between the files. In general, words with different case or different non-whitespace punctuation are considered different words. Additionally, common words (case sensitive) cannot appear in the stopwords.txt file provided. Output the top 20 common words with the highest frequency. 
+Given 2 textual files (Task1-input1.txt, Task1-input2.txt), for each common word between the files, find the smaller number of times the word appears between the files. In general, words with different case or different non-whitespace punctuation are considered different words. Additionally, common words (case sensitive) cannot appear in the stopwords.txt file provided. Output the top 20 common words with the highest frequency. 
 
 Proposed Solution:
 1. Mapper
