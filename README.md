@@ -1,5 +1,5 @@
 # CS4225_HadoopAndSpark
-This repository details proposed solution to 2 assignments completed in NUS CS4225 module. The 2 assignments requires implementation of solution using Hadoop and Spark respectively.
+This repository details proposed solution to 2 assignments completed in NUS CS4225 module. The 2 assignments require implementation of code using Hadoop and Spark respectively.
 
 <ins>Assignment 1: Hadoop</ins>
 
