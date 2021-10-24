@@ -19,3 +19,15 @@ Proposed Solution:
    - Retain the the lower number of times each word appears.
    - Add (lower frequency, word) key-value pairs into a linked hashmap and sort by values in descending order.
    - Output the top 20 (lower frequency, word) key-value pairs.
+
+<ins>Assignment 2: Spark</ins>
+A team of engineers has planted a bomb somewhere in NUS. You have to find the password and the IP address of their engineering server to login and disarm it. Using the 2 log files with the help of the 2 NOTES files, query for the required information.
+
+Proposed Solution:
+1. Finding password to server
+   - Find error message that came from the Gamma subsystem by removing all messages containing 'alpha' and 'beta'.
+   - Find error message that shows "Invalid user" to obtain password.
+   
+2. Finding IP address of server
+   - 'dst' server IP appears only on the weekly session (0,7,14,21,28) days. 
+   - There are only 13 personal IPs recorded for the dst server IP, for each of the 13 bomb engineers.
