@@ -1,7 +1,7 @@
 # CS4225_HadoopAndSpark
 This repository details proposed solution to 2 assignments completed in NUS CS4225 module. The 2 assignments require implementation of code using Hadoop and Spark respectively.
 
-<ins>Assignment 1: Hadoop</ins>
+<ins>**Assignment 1: Hadoop**</ins>
 
 Given 2 textual files (Task1-input1.txt, Task1-input2.txt), for each common word between the files, find the smaller number of times the word appears between the files. In general, words with different case or different non-whitespace punctuation are considered different words. Additionally, common words (case sensitive) cannot appear in the stopwords.txt file provided. Output the top 20 common words with the highest frequency. 
 
@@ -20,7 +20,7 @@ Proposed Solution:
    - Add (lower frequency, word) key-value pairs into a linked hashmap and sort by values in descending order.
    - Output the top 20 (lower frequency, word) key-value pairs.
 
-<ins>Assignment 2: Spark</ins>
+<ins>**Assignment 2: Spark**</ins>
 
 A team of engineers has planted a bomb somewhere in NUS. You have to find the password and the IP address of their engineering server to login and disarm it. Using the 2 log files with the help of the 2 NOTES files, query for the required information.
 
