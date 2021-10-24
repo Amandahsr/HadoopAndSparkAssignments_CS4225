@@ -21,6 +21,7 @@ Proposed Solution:
    - Output the top 20 (lower frequency, word) key-value pairs.
 
 <ins>Assignment 2: Spark</ins>
+
 A team of engineers has planted a bomb somewhere in NUS. You have to find the password and the IP address of their engineering server to login and disarm it. Using the 2 log files with the help of the 2 NOTES files, query for the required information.
 
 Proposed Solution:
