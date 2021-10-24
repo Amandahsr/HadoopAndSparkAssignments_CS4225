@@ -1,0 +1,6 @@
+NOTES TO SELF
+
+- Our bomb engineering lab is on a strict deadline - we were given only 30 days to complete the entire project...
+- Remember to log in to the server for the weekly check in sessions! For security reasons, the server of our bomb engineering lab is STRICTLY only accessible during our weekly sessions, held on day 0, 7, etc.. We don't need to log in every week, but I'm quite sure each of our 13 members have logged in at least once.
+- I suspect boss has been checking the network history log to figure out who has been skipping the weekly check-in sessions?! It seems he determines it because our IP addresses appear in the source IP column when we check in to the server...? I copied the network history log to this directory to figure it out, but it's too complicated, there are way too many IP addresses.
+- Yesterday, WL suggested simplifying my code using the dropDuplicates() function in Spark... should take note of this function for future.
